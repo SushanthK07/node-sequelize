@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ksushanth",
+    "password": "kummitha",
+    "database": "node_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ksushanth",
+    "password": "kummitha",
+    "database": "node_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ksushanth",
+    "password": "kummitha",
+    "database": "node_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
